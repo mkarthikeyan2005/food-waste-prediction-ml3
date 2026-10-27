@@ -1,0 +1,561 @@
+Date,Business_Type,Food_Category,Purchase_Quantity,Units_Sold,Remaining_Stock,Shelf_Life_Days,Storage_Temperature,Daily_Demand,Promotion,Weather,Waste_Quantity,Waste_Reason,Donation_Made,Waste_Level
+2025-01-01,Restaurant,Dairy,32,29,3,9,4.2,22.2,No,Cloudy,0.8,None,Yes,Low
+2025-01-02,Canteen,Prepared Meals,42,38,4,1,2.2,30.4,No,Rainy,2.4,None,Yes,Low
+2025-01-03,Hotel,Dairy,70,61,9,1,1.9,73.7,No,Rainy,5.4,None,No,Low
+2025-01-04,Cafe,Prepared Meals,66,51,15,8,6.3,55.5,No,Cloudy,7.3,None,Yes,Low
+2025-01-05,Cafe,Grains,156,119,37,4,4.4,94.5,No,Rainy,10.0,Storage issue,No,Low
+2025-01-06,Canteen,Bakery,156,120,36,5,3.8,105.3,No,Rainy,13.0,Expired,No,Low
+2025-01-07,Restaurant,Bakery,158,126,32,4,5.0,144.0,Yes,Sunny,8.2,Expired,No,Low
+2025-01-08,Hotel,Bakery,125,57,68,4,6.6,61.8,No,Rainy,14.6,Overproduction,Yes,Low
+2025-01-09,Restaurant,Produce,113,105,8,9,5.4,95.9,No,Cloudy,2.7,None,Yes,Low
+2025-01-10,Restaurant,Dairy,127,94,33,1,3.7,92.0,No,Cloudy,14.5,Overproduction,Yes,Low
+2025-01-11,Hotel,Grains,91,77,14,7,7.5,77.2,Yes,Hot,4.6,None,Yes,Low
+2025-01-12,Canteen,Dairy,130,83,47,9,8.2,91.8,No,Hot,21.4,Low demand,Yes,Medium
+2025-01-13,Hotel,Bakery,149,68,81,6,6.0,51.7,No,Sunny,24.1,Storage issue,No,Medium
+2025-01-14,Canteen,Prepared Meals,144,102,42,4,6.9,91.9,No,Rainy,13.6,Storage issue,Yes,Low
+2025-01-15,Hotel,Prepared Meals,122,86,36,2,7.5,89.3,No,Rainy,19.6,Low demand,No,Medium
+2025-01-16,Canteen,Bakery,38,25,13,7,7.3,23.8,No,Cloudy,7.7,None,Yes,Low
+2025-01-17,Hotel,Grains,138,86,52,5,6.2,92.9,No,Rainy,16.2,Low demand,Yes,Medium
+2025-01-18,Restaurant,Dairy,84,48,36,2,6.2,33.2,No,Hot,15.7,Storage issue,No,Medium
+2025-01-19,Canteen,Grains,141,101,40,4,6.0,105.3,No,Rainy,11.6,Expired,Yes,Low
+2025-01-20,Cafe,Prepared Meals,110,70,40,9,2.8,83.1,No,Cloudy,7.1,None,Yes,Low
+2025-01-21,Hotel,Prepared Meals,162,151,11,3,6.4,156.8,Yes,Sunny,5.7,None,No,Low
+2025-01-22,Cafe,Grains,80,43,37,2,2.3,44.7,No,Hot,8.7,Low demand,No,Low
+2025-01-23,Restaurant,Prepared Meals,169,103,66,7,3.4,101.8,No,Hot,23.9,Storage issue,No,Medium
+2025-01-24,Canteen,Prepared Meals,156,93,63,2,7.6,83.0,Yes,Hot,24.8,Overproduction,No,Medium
+2025-01-25,Canteen,Dairy,79,57,22,9,6.7,56.1,No,Rainy,5.3,None,No,Low
+2025-01-26,Hotel,Grains,102,71,31,8,8.0,86.1,No,Sunny,6.1,None,No,Low
+2025-01-27,Cafe,Produce,109,84,25,9,4.5,82.6,No,Cloudy,8.1,Expired,No,Low
+2025-01-28,Canteen,Prepared Meals,145,134,11,9,2.7,123.3,No,Rainy,6.9,None,Yes,Low
+2025-01-29,Hotel,Grains,133,79,54,3,4.5,73.1,No,Hot,24.7,Storage issue,No,Medium
+2025-01-30,Cafe,Grains,157,125,32,2,5.2,127.4,No,Cloudy,10.9,Overproduction,Yes,Low
+2025-01-31,Cafe,Grains,85,39,46,4,5.2,34.5,No,Cloudy,7.8,None,Yes,Low
+2025-02-01,Restaurant,Grains,105,61,44,5,7.3,66.8,No,Hot,19.8,Overproduction,Yes,Medium
+2025-02-02,Restaurant,Bakery,94,64,30,8,4.3,70.3,No,Hot,5.9,None,No,Low
+2025-02-03,Hotel,Grains,166,77,89,7,5.7,87.7,No,Rainy,37.5,Expired,Yes,High
+2025-02-04,Canteen,Bakery,75,57,18,6,3.0,74.1,Yes,Sunny,9.5,Low demand,No,Low
+2025-02-05,Restaurant,Grains,118,93,25,8,5.9,105.0,Yes,Sunny,9.0,Low demand,Yes,Low
+2025-02-06,Canteen,Dairy,48,40,8,6,5.0,28.8,No,Rainy,2.4,None,No,Low
+2025-02-07,Canteen,Produce,157,111,46,4,3.5,100.2,No,Cloudy,8.0,Storage issue,No,Low
+2025-02-08,Cafe,Produce,87,65,22,4,4.5,64.1,No,Sunny,3.6,None,No,Low
+2025-02-09,Hotel,Produce,81,52,29,5,4.6,46.6,Yes,Sunny,10.6,Storage issue,Yes,Low
+2025-02-10,Restaurant,Produce,117,55,62,1,4.5,41.3,No,Cloudy,36.7,Storage issue,No,High
+2025-02-11,Canteen,Produce,104,52,52,7,8.5,46.7,No,Hot,14.1,Low demand,Yes,Low
+2025-02-12,Hotel,Produce,157,122,35,6,4.8,116.3,Yes,Sunny,15.3,Low demand,No,Medium
+2025-02-13,Cafe,Prepared Meals,109,103,6,7,4.5,94.9,No,Cloudy,3.0,None,Yes,Low
+2025-02-14,Restaurant,Grains,107,49,58,5,0.8,45.2,No,Sunny,10.5,Overproduction,No,Low
+2025-02-15,Canteen,Dairy,45,33,12,8,3.2,47.1,Yes,Cloudy,2.7,None,No,Low
+2025-02-16,Cafe,Bakery,33,27,6,9,4.5,29.4,No,Hot,1.9,None,No,Low
+2025-02-17,Canteen,Dairy,89,77,12,6,3.6,106.7,Yes,Hot,5.8,None,No,Low
+2025-02-18,Hotel,Grains,179,129,50,4,7.8,131.0,No,Cloudy,18.5,Storage issue,Yes,Medium
+2025-02-19,Canteen,Grains,167,127,40,1,4.7,123.5,No,Cloudy,20.7,Storage issue,No,Medium
+2025-02-20,Canteen,Grains,124,99,25,8,7.6,99.0,No,Hot,14.6,Expired,Yes,Low
+2025-02-21,Restaurant,Dairy,124,109,15,9,5.1,112.1,Yes,Cloudy,7.9,None,No,Low
+2025-02-22,Cafe,Produce,88,45,43,7,5.1,50.2,No,Rainy,27.8,Expired,Yes,Medium
+2025-02-23,Cafe,Bakery,56,51,5,8,4.8,75.9,No,Hot,2.6,None,No,Low
+2025-02-24,Cafe,Produce,31,14,17,8,5.0,3.9,Yes,Cloudy,9.8,Expired,No,Low
+2025-02-25,Restaurant,Produce,80,69,11,8,8.4,79.3,Yes,Hot,6.2,None,No,Low
+2025-02-26,Hotel,Bakery,77,38,39,5,0.4,40.5,Yes,Cloudy,20.1,Low demand,No,Medium
+2025-02-27,Restaurant,Bakery,58,32,26,1,1.0,13.1,No,Hot,14.3,Overproduction,Yes,Low
+2025-02-28,Hotel,Prepared Meals,68,31,37,1,3.9,40.2,No,Sunny,22.8,Storage issue,No,Medium
+2025-03-01,Hotel,Prepared Meals,33,22,11,2,5.0,37.2,No,Sunny,4.3,None,No,Low
+2025-03-02,Canteen,Dairy,121,75,46,4,6.4,64.7,No,Sunny,21.6,Expired,No,Medium
+2025-03-03,Hotel,Dairy,169,90,79,7,5.9,89.9,No,Cloudy,32.2,Expired,No,Medium
+2025-03-04,Cafe,Prepared Meals,133,90,43,5,4.2,69.3,No,Cloudy,24.7,Expired,No,Medium
+2025-03-05,Canteen,Dairy,97,63,34,1,7.0,47.9,No,Sunny,12.4,Overproduction,Yes,Low
+2025-03-06,Cafe,Produce,93,78,15,2,7.1,90.6,No,Sunny,8.4,Overproduction,No,Low
+2025-03-07,Cafe,Bakery,76,68,8,9,5.4,62.4,Yes,Hot,4.4,None,No,Low
+2025-03-08,Canteen,Bakery,51,40,11,9,6.9,26.7,No,Hot,6.9,None,No,Low
+2025-03-09,Cafe,Bakery,119,61,58,4,5.5,63.8,No,Cloudy,15.9,Storage issue,Yes,Medium
+2025-03-10,Restaurant,Dairy,114,68,46,8,3.9,61.7,No,Rainy,23.2,Overproduction,No,Medium
+2025-03-11,Cafe,Bakery,31,28,3,7,6.4,22.4,No,Rainy,1.6,None,No,Low
+2025-03-12,Canteen,Produce,92,45,47,9,5.2,53.9,Yes,Sunny,29.1,Storage issue,Yes,Medium
+2025-03-13,Restaurant,Bakery,71,46,25,8,5.0,32.1,No,Sunny,15.1,Overproduction,Yes,Medium
+2025-03-14,Cafe,Dairy,55,51,4,6,7.9,40.1,No,Hot,1.7,None,Yes,Low
+2025-03-15,Restaurant,Bakery,135,125,10,4,0.1,126.8,No,Rainy,4.4,None,No,Low
+2025-03-16,Hotel,Prepared Meals,108,71,37,6,2.2,82.6,No,Cloudy,8.6,Storage issue,Yes,Low
+2025-03-17,Cafe,Produce,125,98,27,3,2.6,112.9,Yes,Cloudy,17.2,Expired,No,Medium
+2025-03-18,Cafe,Bakery,137,93,44,4,4.3,85.0,Yes,Rainy,12.2,Storage issue,No,Low
+2025-03-19,Restaurant,Bakery,177,146,31,6,4.5,157.2,Yes,Sunny,15.9,Low demand,Yes,Medium
+2025-03-20,Hotel,Produce,150,70,80,6,2.0,60.6,Yes,Cloudy,43.8,Low demand,Yes,High
+2025-03-21,Hotel,Grains,123,64,59,6,3.0,85.9,Yes,Sunny,21.9,Expired,Yes,Medium
+2025-03-22,Canteen,Produce,161,122,39,4,3.3,108.4,No,Rainy,10.0,Storage issue,No,Low
+2025-03-23,Cafe,Grains,101,57,44,4,9.9,72.9,Yes,Hot,10.8,Low demand,Yes,Low
+2025-03-24,Restaurant,Grains,177,139,38,1,8.6,131.1,Yes,Cloudy,22.0,Storage issue,Yes,Medium
+2025-03-25,Canteen,Dairy,144,90,54,6,4.2,114.2,No,Hot,21.9,Low demand,Yes,Medium
+2025-03-26,Hotel,Produce,127,113,14,6,4.3,120.1,No,Sunny,2.7,None,Yes,Low
+2025-03-27,Hotel,Bakery,165,142,23,9,2.7,129.8,No,Sunny,11.7,Expired,No,Low
+2025-03-28,Restaurant,Dairy,107,75,32,5,1.2,68.7,No,Rainy,8.8,Storage issue,No,Low
+2025-03-29,Cafe,Dairy,138,115,23,5,4.8,124.4,No,Rainy,13.5,Low demand,Yes,Low
+2025-03-30,Canteen,Grains,72,42,30,1,3.0,54.6,No,Sunny,9.1,Low demand,Yes,Low
+2025-03-31,Canteen,Grains,174,121,53,2,4.8,120.2,No,Hot,13.3,Storage issue,Yes,Low
+2025-04-01,Cafe,Dairy,123,67,56,4,1.8,67.5,No,Sunny,10.8,Storage issue,No,Low
+2025-04-02,Canteen,Produce,147,129,18,4,3.5,138.1,No,Cloudy,7.3,None,Yes,Low
+2025-04-03,Canteen,Bakery,99,85,14,4,5.3,86.6,No,Cloudy,5.3,None,No,Low
+2025-04-04,Cafe,Grains,160,144,16,4,5.7,128.5,No,Cloudy,8.4,Expired,No,Low
+2025-04-05,Canteen,Dairy,41,36,5,7,5.8,26.2,Yes,Sunny,1.9,None,Yes,Low
+2025-04-06,Cafe,Dairy,47,44,3,2,2.4,46.8,No,Rainy,1.0,None,Yes,Low
+2025-04-07,Restaurant,Produce,106,60,46,3,6.7,74.6,Yes,Cloudy,12.9,Storage issue,Yes,Low
+2025-04-08,Hotel,Produce,139,127,12,2,3.4,146.4,Yes,Rainy,3.5,None,No,Low
+2025-04-09,Hotel,Prepared Meals,151,111,40,3,6.3,120.4,Yes,Cloudy,24.6,Overproduction,Yes,Medium
+2025-04-10,Restaurant,Bakery,96,63,33,7,5.0,66.4,No,Sunny,7.7,None,Yes,Low
+2025-04-11,Canteen,Prepared Meals,127,93,34,1,2.2,102.0,No,Sunny,21.9,Storage issue,Yes,Medium
+2025-04-12,Restaurant,Produce,112,70,42,4,4.4,62.0,No,Cloudy,13.2,Low demand,Yes,Low
+2025-04-13,Canteen,Prepared Meals,174,103,71,1,5.7,101.2,No,Cloudy,13.8,Expired,Yes,Low
+2025-04-14,Restaurant,Bakery,128,73,55,9,6.2,63.1,Yes,Sunny,15.1,Expired,No,Medium
+2025-04-15,Canteen,Dairy,92,45,47,7,4.7,30.0,No,Hot,8.4,Overproduction,Yes,Low
+2025-04-16,Canteen,Produce,175,122,53,3,8.1,126.0,No,Sunny,28.9,Low demand,Yes,Medium
+2025-04-17,Canteen,Dairy,46,41,5,2,7.0,43.2,Yes,Hot,2.0,None,Yes,Low
+2025-04-18,Hotel,Grains,177,135,42,1,4.5,143.3,No,Cloudy,13.4,Low demand,No,Low
+2025-04-19,Cafe,Grains,53,38,15,5,6.5,44.6,No,Hot,7.2,None,Yes,Low
+2025-04-20,Hotel,Prepared Meals,73,48,25,7,8.9,50.9,Yes,Hot,11.6,Overproduction,Yes,Low
+2025-04-21,Cafe,Grains,153,104,49,6,8.9,110.7,No,Rainy,30.4,Low demand,Yes,Medium
+2025-04-22,Canteen,Produce,140,78,62,8,2.5,77.5,Yes,Hot,39.1,Overproduction,No,High
+2025-04-23,Hotel,Produce,175,151,24,4,3.1,156.0,No,Sunny,11.8,Storage issue,No,Low
+2025-04-24,Cafe,Prepared Meals,142,78,64,3,8.0,69.3,No,Rainy,35.8,Expired,No,High
+2025-04-25,Hotel,Produce,125,101,24,5,2.9,105.4,No,Sunny,13.1,Low demand,No,Low
+2025-04-26,Hotel,Produce,81,67,14,2,2.4,75.0,No,Rainy,5.5,None,No,Low
+2025-04-27,Restaurant,Dairy,30,22,8,9,4.0,14.0,Yes,Hot,4.0,None,Yes,Low
+2025-04-28,Restaurant,Prepared Meals,48,42,6,2,5.8,42.6,No,Rainy,1.1,None,Yes,Low
+2025-04-29,Restaurant,Dairy,74,44,30,5,4.8,36.5,No,Sunny,15.9,Storage issue,Yes,Medium
+2025-04-30,Restaurant,Grains,36,32,4,5,3.7,25.7,No,Rainy,2.5,None,No,Low
+2025-05-01,Cafe,Produce,106,86,20,1,3.7,72.5,Yes,Hot,3.8,None,No,Low
+2025-05-02,Hotel,Prepared Meals,146,124,22,5,3.6,139.2,No,Cloudy,12.5,Overproduction,No,Low
+2025-05-03,Hotel,Grains,174,136,38,5,3.2,148.8,No,Cloudy,23.4,Low demand,No,Medium
+2025-05-04,Cafe,Grains,103,90,13,3,9.6,96.4,Yes,Rainy,3.4,None,Yes,Low
+2025-05-05,Canteen,Prepared Meals,161,152,9,2,5.6,175.7,Yes,Rainy,3.7,None,Yes,Low
+2025-05-06,Hotel,Grains,177,117,60,1,6.8,114.7,No,Cloudy,36.8,Storage issue,Yes,High
+2025-05-07,Restaurant,Dairy,158,135,23,1,4.0,171.4,No,Cloudy,14.5,Low demand,No,Low
+2025-05-08,Canteen,Dairy,99,81,18,5,4.6,78.3,Yes,Hot,3.9,None,No,Low
+2025-05-09,Hotel,Dairy,78,53,25,1,3.6,56.1,No,Cloudy,8.1,Overproduction,Yes,Low
+2025-05-10,Hotel,Produce,176,161,15,9,-0.3,156.2,No,Hot,7.5,None,Yes,Low
+2025-05-11,Hotel,Grains,66,43,23,3,2.2,47.5,No,Hot,6.0,None,No,Low
+2025-05-12,Hotel,Produce,91,67,24,6,1.4,77.0,No,Sunny,7.5,None,No,Low
+2025-05-13,Restaurant,Grains,41,21,20,7,0.5,19.6,No,Rainy,3.2,None,No,Low
+2025-05-14,Hotel,Grains,149,84,65,5,2.6,105.3,No,Rainy,14.7,Low demand,No,Low
+2025-05-15,Canteen,Prepared Meals,127,111,16,8,7.6,113.9,No,Sunny,6.9,None,Yes,Low
+2025-05-16,Cafe,Bakery,42,27,15,1,4.9,30.2,No,Sunny,7.1,None,Yes,Low
+2025-05-17,Hotel,Produce,63,41,22,3,7.6,30.1,No,Hot,10.4,Storage issue,No,Low
+2025-05-18,Restaurant,Dairy,113,65,48,3,5.8,70.0,No,Rainy,25.9,Low demand,No,Medium
+2025-05-19,Cafe,Prepared Meals,111,77,34,2,6.6,75.4,No,Sunny,12.2,Low demand,No,Low
+2025-05-20,Cafe,Prepared Meals,150,128,22,3,3.2,120.7,Yes,Rainy,6.3,None,No,Low
+2025-05-21,Canteen,Dairy,69,62,7,3,6.0,52.7,No,Rainy,1.1,None,No,Low
+2025-05-22,Restaurant,Produce,168,81,87,7,6.5,113.1,No,Sunny,22.0,Overproduction,Yes,Medium
+2025-05-23,Cafe,Prepared Meals,96,71,25,3,3.8,67.8,No,Sunny,7.7,None,Yes,Low
+2025-05-24,Cafe,Prepared Meals,153,105,48,8,6.1,87.5,No,Hot,11.5,Overproduction,No,Low
+2025-05-25,Canteen,Prepared Meals,65,49,16,7,6.1,40.6,No,Hot,2.6,None,No,Low
+2025-05-26,Canteen,Dairy,35,24,11,9,3.9,23.4,No,Rainy,2.5,None,Yes,Low
+2025-05-27,Restaurant,Prepared Meals,38,25,13,1,2.8,31.6,No,Cloudy,6.3,None,No,Low
+2025-05-28,Restaurant,Dairy,85,58,27,9,2.6,64.7,Yes,Hot,12.5,Storage issue,Yes,Low
+2025-05-29,Canteen,Dairy,172,127,45,6,5.2,135.1,Yes,Hot,27.8,Storage issue,Yes,Medium
+2025-05-30,Restaurant,Dairy,37,26,11,9,5.7,18.3,Yes,Sunny,6.0,None,No,Low
+2025-05-31,Canteen,Produce,85,58,27,4,3.4,62.1,Yes,Hot,11.7,Expired,No,Low
+2025-06-01,Cafe,Dairy,46,40,6,9,5.1,29.5,No,Sunny,1.3,None,Yes,Low
+2025-06-02,Canteen,Produce,169,139,30,6,6.1,131.6,No,Sunny,13.0,Overproduction,Yes,Low
+2025-06-03,Cafe,Produce,131,81,50,1,6.2,70.0,No,Rainy,9.0,Expired,No,Low
+2025-06-04,Cafe,Grains,144,122,22,4,8.1,107.7,Yes,Cloudy,8.0,Overproduction,No,Low
+2025-06-05,Hotel,Produce,136,119,17,2,7.6,131.8,No,Sunny,5.9,None,Yes,Low
+2025-06-06,Restaurant,Dairy,128,67,61,9,3.0,75.3,Yes,Rainy,22.2,Low demand,No,Medium
+2025-06-07,Hotel,Dairy,146,108,38,3,8.4,119.7,No,Rainy,11.0,Storage issue,Yes,Low
+2025-06-08,Hotel,Bakery,31,18,13,3,3.9,18.5,Yes,Rainy,6.4,None,No,Low
+2025-06-09,Canteen,Dairy,159,130,29,5,7.1,139.3,No,Hot,16.5,Storage issue,Yes,Medium
+2025-06-10,Canteen,Prepared Meals,140,80,60,4,5.1,58.9,No,Rainy,32.1,Low demand,No,Medium
+2025-06-11,Hotel,Grains,140,110,30,1,4.2,120.4,No,Sunny,13.9,Expired,No,Low
+2025-06-12,Cafe,Grains,89,51,38,8,1.4,53.1,No,Sunny,15.9,Expired,No,Medium
+2025-06-13,Cafe,Prepared Meals,150,106,44,8,4.7,113.5,No,Sunny,7.3,None,No,Low
+2025-06-14,Cafe,Produce,87,80,7,7,1.9,84.6,Yes,Sunny,3.6,None,No,Low
+2025-06-15,Canteen,Prepared Meals,37,24,13,6,6.9,12.2,No,Cloudy,5.5,None,No,Low
+2025-06-16,Cafe,Produce,166,147,19,4,8.0,129.0,No,Rainy,5.4,None,No,Low
+2025-06-17,Restaurant,Prepared Meals,65,61,4,5,3.4,52.5,No,Rainy,1.3,None,No,Low
+2025-06-18,Cafe,Dairy,45,40,5,5,5.6,46.8,No,Hot,3.1,None,No,Low
+2025-06-19,Restaurant,Produce,123,66,57,2,3.5,74.3,No,Cloudy,26.3,Overproduction,No,Medium
+2025-06-20,Restaurant,Produce,65,56,9,1,3.7,39.6,Yes,Sunny,3.5,None,No,Low
+2025-06-21,Restaurant,Dairy,158,74,84,3,6.5,62.2,Yes,Rainy,38.7,Overproduction,No,High
+2025-06-22,Canteen,Grains,96,62,34,5,4.9,53.3,Yes,Rainy,12.1,Expired,Yes,Low
+2025-06-23,Hotel,Produce,30,27,3,2,8.5,22.7,Yes,Hot,1.2,None,No,Low
+2025-06-24,Hotel,Bakery,172,137,35,1,4.0,120.7,No,Rainy,10.3,Overproduction,Yes,Low
+2025-06-25,Cafe,Produce,107,77,30,8,7.0,59.9,No,Sunny,11.1,Expired,No,Low
+2025-06-26,Hotel,Produce,69,44,25,4,5.2,34.1,No,Cloudy,12.3,Low demand,Yes,Low
+2025-06-27,Restaurant,Bakery,131,112,19,6,6.6,113.0,No,Rainy,3.2,None,No,Low
+2025-06-28,Canteen,Produce,109,88,21,5,4.1,73.8,No,Sunny,11.5,Overproduction,Yes,Low
+2025-06-29,Hotel,Grains,34,23,11,7,4.9,21.6,No,Cloudy,3.2,None,No,Low
+2025-06-30,Canteen,Grains,143,128,15,7,4.8,140.7,No,Sunny,7.4,None,No,Low
+2025-07-01,Restaurant,Produce,90,51,39,3,3.3,35.4,Yes,Hot,18.4,Storage issue,Yes,Medium
+2025-07-02,Cafe,Produce,134,72,62,8,6.3,69.5,No,Hot,29.5,Low demand,No,Medium
+2025-07-03,Hotel,Bakery,164,127,37,4,6.3,139.3,No,Rainy,16.8,Low demand,Yes,Medium
+2025-07-04,Cafe,Produce,121,113,8,8,6.2,108.0,No,Cloudy,5.0,None,No,Low
+2025-07-05,Cafe,Bakery,130,75,55,4,8.1,68.1,No,Cloudy,22.2,Expired,No,Medium
+2025-07-06,Restaurant,Dairy,68,39,29,1,7.9,53.0,No,Cloudy,15.0,Low demand,Yes,Low
+2025-07-07,Cafe,Bakery,65,34,31,7,4.3,30.3,No,Sunny,15.6,Low demand,Yes,Medium
+2025-07-08,Restaurant,Bakery,92,81,11,1,5.7,94.3,No,Rainy,2.9,None,Yes,Low
+2025-07-09,Cafe,Prepared Meals,157,88,69,7,3.8,93.1,No,Sunny,20.1,Overproduction,Yes,Medium
+2025-07-10,Hotel,Grains,108,76,32,1,5.0,71.9,Yes,Cloudy,11.6,Expired,Yes,Low
+2025-07-11,Hotel,Prepared Meals,82,78,4,2,3.8,83.8,No,Sunny,1.2,None,No,Low
+2025-07-12,Hotel,Prepared Meals,146,67,79,6,8.2,70.8,No,Cloudy,26.3,Expired,No,Medium
+2025-07-13,Cafe,Grains,158,115,43,9,5.7,127.3,No,Cloudy,14.9,Low demand,Yes,Low
+2025-07-14,Canteen,Dairy,165,117,48,4,4.6,110.4,No,Hot,21.7,Low demand,Yes,Medium
+2025-07-15,Restaurant,Dairy,74,63,11,2,7.4,63.5,No,Rainy,2.9,None,Yes,Low
+2025-07-16,Cafe,Produce,136,85,51,3,0.7,84.3,No,Sunny,28.2,Overproduction,No,Medium
+2025-07-17,Restaurant,Bakery,118,77,41,9,1.0,85.4,No,Cloudy,15.1,Low demand,Yes,Medium
+2025-07-18,Cafe,Prepared Meals,97,52,45,7,6.6,39.7,No,Sunny,22.6,Low demand,Yes,Medium
+2025-07-19,Canteen,Produce,89,73,16,1,5.1,85.2,No,Sunny,3.1,None,Yes,Low
+2025-07-20,Cafe,Prepared Meals,47,40,7,4,5.5,45.6,Yes,Hot,2.7,None,Yes,Low
+2025-07-21,Canteen,Dairy,71,37,34,3,2.3,21.2,Yes,Hot,5.6,None,No,Low
+2025-07-22,Cafe,Grains,112,72,40,2,5.0,86.5,No,Cloudy,19.5,Low demand,Yes,Medium
+2025-07-23,Hotel,Grains,162,145,17,8,9.0,171.8,No,Hot,5.5,None,No,Low
+2025-07-24,Cafe,Bakery,159,72,87,6,6.6,84.0,Yes,Sunny,54.3,Overproduction,No,High
+2025-07-25,Cafe,Produce,58,35,23,2,5.3,52.1,No,Sunny,7.2,None,No,Low
+2025-07-26,Canteen,Produce,131,95,36,6,4.1,96.0,No,Rainy,15.5,Storage issue,Yes,Medium
+2025-07-27,Canteen,Dairy,42,26,16,4,4.2,6.1,Yes,Sunny,4.5,None,No,Low
+2025-07-28,Cafe,Prepared Meals,131,77,54,1,0.7,54.9,No,Hot,24.8,Low demand,Yes,Medium
+2025-07-29,Canteen,Bakery,81,55,26,5,5.5,58.1,Yes,Sunny,10.0,Overproduction,No,Low
+2025-07-30,Cafe,Produce,97,52,45,2,6.7,44.9,No,Cloudy,15.1,Low demand,No,Medium
+2025-07-31,Hotel,Grains,137,98,39,3,1.8,87.0,Yes,Hot,9.8,Storage issue,Yes,Low
+2025-08-01,Canteen,Prepared Meals,93,75,18,8,3.7,74.2,Yes,Cloudy,3.7,None,No,Low
+2025-08-02,Cafe,Produce,151,111,40,7,2.7,118.4,Yes,Sunny,8.4,Overproduction,No,Low
+2025-08-03,Hotel,Grains,110,55,55,2,3.1,37.6,No,Rainy,35.7,Overproduction,No,High
+2025-08-04,Cafe,Grains,179,156,23,8,5.1,150.6,Yes,Cloudy,8.2,Storage issue,Yes,Low
+2025-08-05,Restaurant,Dairy,125,67,58,6,0.8,85.1,No,Hot,8.8,Expired,No,Low
+2025-08-06,Restaurant,Prepared Meals,74,62,12,8,6.2,49.1,Yes,Rainy,7.5,None,Yes,Low
+2025-08-07,Cafe,Bakery,146,92,54,7,6.5,102.4,No,Rainy,8.6,Overproduction,Yes,Low
+2025-08-08,Canteen,Grains,91,77,14,4,4.5,71.2,No,Hot,5.0,None,No,Low
+2025-08-09,Restaurant,Grains,110,61,49,5,0.0,67.5,No,Hot,24.9,Low demand,Yes,Medium
+2025-08-10,Cafe,Produce,50,27,23,5,3.0,40.2,Yes,Rainy,14.0,Overproduction,No,Low
+2025-08-11,Hotel,Prepared Meals,47,33,14,7,7.5,41.9,No,Sunny,7.1,None,Yes,Low
+2025-08-12,Restaurant,Prepared Meals,116,54,62,3,-0.6,64.9,No,Cloudy,23.7,Low demand,Yes,Medium
+2025-08-13,Hotel,Dairy,58,33,25,3,4.3,19.2,Yes,Hot,15.9,Expired,Yes,Medium
+2025-08-14,Cafe,Dairy,179,145,34,3,2.6,158.4,Yes,Hot,5.8,None,No,Low
+2025-08-15,Canteen,Prepared Meals,158,137,21,3,6.6,126.8,No,Rainy,13.5,Low demand,No,Low
+2025-08-16,Hotel,Produce,135,66,69,2,3.6,69.1,No,Sunny,39.7,Expired,Yes,High
+2025-08-17,Hotel,Dairy,140,125,15,1,5.8,128.1,Yes,Cloudy,9.2,Overproduction,No,Low
+2025-08-18,Restaurant,Prepared Meals,119,101,18,9,6.1,106.8,Yes,Hot,5.0,None,Yes,Low
+2025-08-19,Cafe,Prepared Meals,39,35,4,1,8.7,39.0,No,Hot,0.9,None,No,Low
+2025-08-20,Canteen,Dairy,88,70,18,8,4.6,59.9,No,Sunny,8.7,Overproduction,Yes,Low
+2025-08-21,Restaurant,Produce,104,82,22,1,5.8,65.8,No,Rainy,9.0,Expired,No,Low
+2025-08-22,Canteen,Grains,167,119,48,7,2.0,129.5,No,Rainy,19.8,Overproduction,Yes,Medium
+2025-08-23,Cafe,Dairy,62,48,14,3,7.4,50.2,No,Sunny,8.6,Low demand,Yes,Low
+2025-08-24,Hotel,Bakery,104,95,9,5,3.5,108.8,No,Hot,4.1,None,No,Low
+2025-08-25,Hotel,Grains,81,41,40,3,3.9,40.5,No,Sunny,12.2,Low demand,No,Low
+2025-08-26,Cafe,Dairy,50,30,20,5,5.0,13.1,No,Cloudy,7.0,None,Yes,Low
+2025-08-27,Cafe,Bakery,45,22,23,5,1.9,33.6,Yes,Hot,5.0,None,No,Low
+2025-08-28,Hotel,Dairy,84,77,7,5,5.5,72.6,Yes,Cloudy,1.7,None,No,Low
+2025-08-29,Restaurant,Prepared Meals,42,28,14,4,6.9,32.1,No,Hot,3.1,None,Yes,Low
+2025-08-30,Hotel,Bakery,40,32,8,5,5.6,24.2,No,Rainy,4.4,None,Yes,Low
+2025-08-31,Restaurant,Dairy,82,71,11,8,1.8,90.7,Yes,Hot,5.5,None,No,Low
+2025-09-01,Hotel,Grains,60,57,3,4,4.8,46.5,No,Rainy,1.2,None,No,Low
+2025-09-02,Hotel,Produce,113,60,53,4,6.5,56.0,No,Sunny,17.9,Storage issue,No,Medium
+2025-09-03,Restaurant,Produce,32,27,5,2,1.2,28.3,No,Rainy,2.4,None,No,Low
+2025-09-04,Canteen,Dairy,75,67,8,4,2.9,53.9,No,Rainy,4.5,None,No,Low
+2025-09-05,Cafe,Prepared Meals,97,46,51,2,6.8,50.0,No,Cloudy,30.1,Overproduction,No,Medium
+2025-09-06,Canteen,Bakery,174,144,30,2,5.5,163.3,No,Rainy,12.7,Storage issue,No,Low
+2025-09-07,Restaurant,Grains,125,78,47,9,5.8,72.1,Yes,Rainy,26.3,Storage issue,Yes,Medium
+2025-09-08,Restaurant,Prepared Meals,162,125,37,1,8.7,129.7,No,Rainy,15.0,Expired,No,Low
+2025-09-09,Cafe,Grains,81,57,24,5,5.9,24.0,No,Rainy,9.3,Low demand,No,Low
+2025-09-10,Restaurant,Produce,97,56,41,8,6.3,55.5,Yes,Cloudy,23.9,Low demand,Yes,Medium
+2025-09-11,Cafe,Bakery,93,48,45,9,10.4,44.2,Yes,Rainy,15.4,Low demand,No,Medium
+2025-09-12,Hotel,Produce,163,83,80,2,4.6,73.2,Yes,Hot,27.8,Expired,No,Medium
+2025-09-13,Restaurant,Grains,173,87,86,2,3.4,100.0,No,Rainy,26.0,Low demand,Yes,Medium
+2025-09-14,Hotel,Prepared Meals,174,134,40,4,5.9,130.1,No,Hot,16.4,Storage issue,Yes,Medium
+2025-09-15,Restaurant,Prepared Meals,142,89,53,5,5.9,86.9,Yes,Rainy,22.4,Storage issue,Yes,Medium
+2025-09-16,Restaurant,Produce,105,59,46,9,3.9,54.5,No,Sunny,22.1,Expired,Yes,Medium
+2025-09-17,Hotel,Grains,111,88,23,2,2.9,65.0,No,Sunny,8.4,Low demand,Yes,Low
+2025-09-18,Canteen,Prepared Meals,177,140,37,2,9.6,126.4,Yes,Hot,9.6,Storage issue,Yes,Low
+2025-09-19,Restaurant,Produce,72,52,20,3,5.7,63.5,No,Hot,11.7,Overproduction,Yes,Low
+2025-09-20,Cafe,Prepared Meals,82,75,7,8,3.5,49.7,Yes,Sunny,2.3,None,Yes,Low
+2025-09-21,Canteen,Produce,164,105,59,1,6.8,95.8,No,Cloudy,36.1,Overproduction,Yes,High
+2025-09-22,Canteen,Produce,87,76,11,4,4.8,71.2,No,Cloudy,2.8,None,No,Low
+2025-09-23,Hotel,Prepared Meals,65,32,33,2,4.5,52.9,Yes,Sunny,14.2,Storage issue,Yes,Low
+2025-09-24,Cafe,Produce,114,93,21,2,6.1,102.2,No,Rainy,8.8,Storage issue,No,Low
+2025-09-25,Cafe,Grains,78,74,4,9,2.4,67.3,No,Cloudy,2.3,None,Yes,Low
+2025-09-26,Hotel,Grains,163,142,21,1,5.7,157.7,No,Hot,4.6,None,No,Low
+2025-09-27,Hotel,Prepared Meals,166,123,43,3,8.8,114.1,No,Hot,26.0,Low demand,No,Medium
+2025-09-28,Cafe,Bakery,75,57,18,9,5.9,69.1,No,Sunny,7.5,None,No,Low
+2025-09-29,Restaurant,Bakery,109,68,41,6,4.2,51.7,Yes,Sunny,18.2,Storage issue,Yes,Medium
+2025-09-30,Restaurant,Dairy,177,140,37,1,4.0,152.9,No,Rainy,15.0,Low demand,No,Low
+2025-10-01,Canteen,Prepared Meals,141,118,23,5,4.2,113.1,No,Sunny,3.9,None,Yes,Low
+2025-10-02,Cafe,Grains,62,59,3,9,4.5,46.7,No,Cloudy,1.2,None,Yes,Low
+2025-10-03,Cafe,Produce,118,82,36,4,4.2,79.4,No,Sunny,10.1,Expired,No,Low
+2025-10-04,Cafe,Grains,122,59,63,5,6.8,62.3,No,Sunny,20.2,Storage issue,Yes,Medium
+2025-10-05,Canteen,Prepared Meals,128,96,32,5,1.5,90.1,Yes,Sunny,15.2,Expired,Yes,Medium
+2025-10-06,Restaurant,Prepared Meals,33,17,16,6,6.7,23.6,No,Rainy,6.4,None,No,Low
+2025-10-07,Restaurant,Grains,74,42,32,2,4.2,35.0,Yes,Hot,6.3,None,Yes,Low
+2025-10-08,Cafe,Bakery,158,97,61,8,5.8,104.4,No,Sunny,11.4,Storage issue,No,Low
+2025-10-09,Cafe,Produce,66,54,12,9,2.7,59.3,No,Hot,2.9,None,Yes,Low
+2025-10-10,Hotel,Grains,74,40,34,2,7.7,39.3,No,Rainy,8.3,Low demand,Yes,Low
+2025-10-11,Cafe,Prepared Meals,78,42,36,8,7.5,36.7,No,Sunny,16.3,Storage issue,Yes,Medium
+2025-10-12,Cafe,Prepared Meals,56,26,30,8,6.9,27.8,No,Rainy,7.2,None,Yes,Low
+2025-10-13,Canteen,Prepared Meals,53,47,6,7,2.0,53.6,No,Cloudy,3.5,None,Yes,Low
+2025-10-14,Restaurant,Prepared Meals,82,65,17,4,6.7,89.7,No,Sunny,4.3,None,Yes,Low
+2025-10-15,Hotel,Prepared Meals,161,76,85,5,5.8,87.3,No,Sunny,16.6,Low demand,Yes,Medium
+2025-10-16,Hotel,Grains,30,14,16,8,1.8,25.7,Yes,Hot,9.4,Low demand,Yes,Low
+2025-10-17,Cafe,Produce,72,53,19,2,5.0,90.1,Yes,Cloudy,5.7,None,Yes,Low
+2025-10-18,Canteen,Grains,39,23,16,8,5.7,29.2,No,Rainy,5.8,None,No,Low
+2025-10-19,Cafe,Grains,114,85,29,9,6.1,90.8,No,Hot,18.3,Overproduction,No,Medium
+2025-10-20,Canteen,Grains,67,45,22,7,5.4,53.4,No,Hot,13.7,Expired,No,Low
+2025-10-21,Cafe,Bakery,148,135,13,4,5.6,122.9,Yes,Rainy,6.6,None,No,Low
+2025-10-22,Hotel,Bakery,117,69,48,6,7.9,63.7,No,Cloudy,8.9,Low demand,Yes,Low
+2025-10-23,Hotel,Grains,147,116,31,1,7.5,109.9,No,Sunny,13.8,Storage issue,Yes,Low
+2025-10-24,Canteen,Bakery,125,60,65,9,-0.7,67.8,No,Rainy,41.9,Expired,No,High
+2025-10-25,Cafe,Prepared Meals,95,88,7,4,4.4,85.9,Yes,Cloudy,4.4,None,Yes,Low
+2025-10-26,Cafe,Produce,159,150,9,1,4.7,151.7,No,Sunny,1.8,None,No,Low
+2025-10-27,Restaurant,Grains,101,83,18,8,1.5,96.0,No,Hot,6.3,None,Yes,Low
+2025-10-28,Cafe,Grains,172,117,55,6,5.2,127.4,Yes,Hot,16.9,Overproduction,Yes,Medium
+2025-10-29,Canteen,Grains,179,100,79,6,7.5,98.1,No,Rainy,17.0,Expired,No,Medium
+2025-10-30,Restaurant,Prepared Meals,118,101,17,1,2.8,93.0,No,Rainy,8.5,Low demand,No,Low
+2025-10-31,Canteen,Produce,131,107,24,7,5.7,120.6,Yes,Sunny,6.9,None,No,Low
+2025-11-01,Hotel,Grains,68,38,30,6,3.2,47.3,Yes,Cloudy,9.7,Expired,Yes,Low
+2025-11-02,Restaurant,Produce,152,103,49,8,3.7,83.7,No,Sunny,9.6,Storage issue,Yes,Low
+2025-11-03,Cafe,Grains,130,89,41,8,8.0,85.2,No,Rainy,16.4,Overproduction,No,Medium
+2025-11-04,Hotel,Grains,165,142,23,2,3.9,144.0,Yes,Cloudy,5.3,None,Yes,Low
+2025-11-05,Cafe,Dairy,70,55,15,2,5.9,64.3,No,Cloudy,5.5,None,No,Low
+2025-11-06,Restaurant,Prepared Meals,148,114,34,9,1.3,124.9,No,Cloudy,7.5,None,Yes,Low
+2025-11-07,Hotel,Dairy,100,77,23,5,8.7,80.4,Yes,Sunny,14.4,Overproduction,No,Low
+2025-11-08,Hotel,Bakery,57,33,24,4,6.2,40.0,No,Hot,5.3,None,No,Low
+2025-11-09,Restaurant,Prepared Meals,55,35,20,3,4.6,35.8,No,Cloudy,8.2,Expired,Yes,Low
+2025-11-10,Cafe,Prepared Meals,114,54,60,6,6.2,45.9,No,Hot,14.9,Storage issue,No,Low
+2025-11-11,Restaurant,Produce,77,65,12,7,2.2,61.9,No,Rainy,2.3,None,Yes,Low
+2025-11-12,Hotel,Dairy,45,30,15,1,7.4,30.2,No,Hot,3.8,None,Yes,Low
+2025-11-13,Hotel,Dairy,94,63,31,5,4.4,62.6,No,Rainy,5.5,None,No,Low
+2025-11-14,Hotel,Produce,127,73,54,9,4.6,50.4,No,Hot,11.9,Low demand,No,Low
+2025-11-15,Canteen,Dairy,77,43,34,3,4.0,38.2,Yes,Sunny,13.5,Overproduction,Yes,Low
+2025-11-16,Canteen,Produce,173,129,44,3,3.8,129.7,No,Sunny,20.9,Overproduction,Yes,Medium
+2025-11-17,Cafe,Prepared Meals,146,83,63,8,6.4,79.6,No,Cloudy,12.2,Low demand,Yes,Low
+2025-11-18,Restaurant,Grains,106,51,55,1,5.5,48.0,Yes,Cloudy,20.4,Storage issue,No,Medium
+2025-11-19,Hotel,Dairy,170,142,28,4,6.3,147.9,Yes,Cloudy,12.3,Low demand,No,Low
+2025-11-20,Canteen,Prepared Meals,94,60,34,5,5.0,47.1,No,Rainy,9.1,Expired,No,Low
+2025-11-21,Canteen,Grains,50,32,18,8,6.0,12.5,Yes,Hot,6.0,None,Yes,Low
+2025-11-22,Restaurant,Produce,35,23,12,2,4.2,18.8,Yes,Rainy,2.2,None,Yes,Low
+2025-11-23,Restaurant,Prepared Meals,170,146,24,4,9.5,155.2,Yes,Cloudy,6.2,None,Yes,Low
+2025-11-24,Restaurant,Prepared Meals,173,106,67,2,1.9,126.3,No,Hot,25.7,Expired,Yes,Medium
+2025-11-25,Restaurant,Prepared Meals,140,116,24,8,7.5,125.4,No,Cloudy,15.5,Overproduction,Yes,Medium
+2025-11-26,Hotel,Bakery,45,41,4,6,7.7,23.4,No,Cloudy,2.6,None,No,Low
+2025-11-27,Hotel,Prepared Meals,74,58,16,5,3.3,55.2,Yes,Hot,10.2,Storage issue,Yes,Low
+2025-11-28,Cafe,Produce,36,24,12,4,9.5,27.1,Yes,Hot,4.3,None,Yes,Low
+2025-11-29,Cafe,Dairy,37,30,7,2,7.0,32.1,No,Rainy,1.3,None,No,Low
+2025-11-30,Canteen,Grains,66,45,21,9,6.9,51.5,No,Rainy,6.5,None,No,Low
+2025-12-01,Cafe,Produce,115,76,39,6,5.1,65.0,No,Sunny,10.5,Storage issue,No,Low
+2025-12-02,Canteen,Produce,39,28,11,3,4.6,28.8,Yes,Cloudy,1.7,None,Yes,Low
+2025-12-03,Canteen,Dairy,177,108,69,4,4.6,113.0,Yes,Hot,13.6,Low demand,Yes,Low
+2025-12-04,Cafe,Prepared Meals,98,49,49,7,5.8,58.9,Yes,Rainy,18.5,Storage issue,No,Medium
+2025-12-05,Restaurant,Prepared Meals,69,45,24,7,7.8,35.3,No,Rainy,7.7,None,No,Low
+2025-12-06,Canteen,Produce,107,55,52,5,5.4,50.9,No,Sunny,12.5,Storage issue,Yes,Low
+2025-12-07,Hotel,Prepared Meals,148,97,51,3,3.2,64.6,No,Rainy,25.9,Storage issue,No,Medium
+2025-12-08,Cafe,Prepared Meals,76,55,21,6,6.6,47.5,No,Sunny,6.9,None,Yes,Low
+2025-12-09,Hotel,Bakery,37,34,3,6,6.8,27.7,No,Hot,1.7,None,Yes,Low
+2025-12-10,Hotel,Grains,37,17,20,6,6.3,4.8,No,Cloudy,5.4,None,Yes,Low
+2025-12-11,Canteen,Dairy,157,119,38,1,6.5,121.0,Yes,Sunny,15.9,Expired,No,Medium
+2025-12-12,Cafe,Produce,46,31,15,5,4.5,30.3,No,Sunny,3.6,None,Yes,Low
+2025-12-13,Canteen,Dairy,125,58,67,6,3.1,30.9,No,Hot,26.6,Overproduction,No,Medium
+2025-12-14,Canteen,Prepared Meals,87,50,37,9,3.3,52.6,No,Hot,8.4,Storage issue,Yes,Low
+2025-12-15,Restaurant,Bakery,146,74,72,5,1.7,62.9,Yes,Hot,16.6,Overproduction,Yes,Medium
+2025-12-16,Restaurant,Prepared Meals,39,22,17,4,5.5,27.8,No,Sunny,7.8,None,No,Low
+2025-12-17,Hotel,Produce,164,96,68,6,4.8,80.6,No,Sunny,19.2,Storage issue,No,Medium
+2025-12-18,Restaurant,Prepared Meals,134,87,47,2,4.1,87.4,Yes,Sunny,11.1,Expired,Yes,Low
+2025-12-19,Cafe,Bakery,97,69,28,1,-0.9,65.6,No,Hot,17.2,Storage issue,Yes,Medium
+2025-12-20,Cafe,Grains,61,27,34,7,2.5,30.6,No,Hot,5.8,None,Yes,Low
+2025-12-21,Canteen,Dairy,176,93,83,9,7.2,94.5,Yes,Hot,35.9,Expired,Yes,High
+2025-12-22,Canteen,Dairy,75,37,38,8,3.7,33.9,No,Sunny,16.1,Low demand,Yes,Medium
+2025-12-23,Restaurant,Dairy,103,75,28,6,5.7,56.6,No,Sunny,7.7,None,No,Low
+2025-12-24,Canteen,Produce,89,55,34,1,2.2,37.3,No,Hot,12.8,Overproduction,Yes,Low
+2025-12-25,Restaurant,Bakery,64,46,18,9,7.9,39.0,No,Hot,3.5,None,No,Low
+2025-12-26,Hotel,Produce,92,52,40,5,4.7,51.9,Yes,Cloudy,20.4,Low demand,No,Medium
+2025-12-27,Canteen,Grains,52,24,28,3,5.6,16.7,No,Sunny,7.3,None,No,Low
+2025-12-28,Canteen,Dairy,30,28,2,9,9.7,35.5,No,Sunny,0.5,None,No,Low
+2025-12-29,Restaurant,Dairy,73,37,36,7,8.0,33.6,Yes,Sunny,11.1,Low demand,No,Low
+2025-12-30,Canteen,Prepared Meals,46,24,22,7,4.4,12.4,No,Cloudy,13.2,Storage issue,Yes,Low
+2025-12-31,Restaurant,Bakery,92,48,44,3,3.8,44.7,No,Hot,24.1,Storage issue,Yes,Medium
+2026-01-01,Hotel,Grains,159,150,9,9,4.3,152.7,Yes,Cloudy,5.6,None,No,Low
+2026-01-02,Cafe,Dairy,54,41,13,5,6.0,44.9,No,Rainy,6.2,None,Yes,Low
+2026-01-03,Cafe,Bakery,30,23,7,5,4.8,45.5,No,Hot,3.4,None,No,Low
+2026-01-04,Restaurant,Dairy,46,43,3,7,4.2,35.0,No,Sunny,1.2,None,No,Low
+2026-01-05,Canteen,Dairy,106,52,54,6,7.9,51.1,No,Hot,32.5,Expired,No,Medium
+2026-01-06,Cafe,Dairy,71,67,4,2,4.8,72.1,No,Hot,1.6,None,Yes,Low
+2026-01-07,Hotel,Produce,103,57,46,3,9.6,56.7,No,Cloudy,15.1,Storage issue,Yes,Medium
+2026-01-08,Cafe,Bakery,34,26,8,4,5.2,20.0,Yes,Hot,3.8,None,Yes,Low
+2026-01-09,Cafe,Produce,79,52,27,9,8.6,33.4,Yes,Cloudy,11.4,Low demand,Yes,Low
+2026-01-10,Canteen,Dairy,91,58,33,7,5.7,51.9,No,Rainy,7.0,None,Yes,Low
+2026-01-11,Restaurant,Grains,94,86,8,4,6.9,73.1,Yes,Rainy,2.8,None,Yes,Low
+2026-01-12,Hotel,Prepared Meals,112,59,53,7,3.6,38.3,No,Hot,16.3,Expired,Yes,Medium
+2026-01-13,Hotel,Prepared Meals,147,139,8,7,3.3,129.5,Yes,Cloudy,4.6,None,No,Low
+2026-01-14,Cafe,Dairy,100,64,36,4,5.9,51.4,No,Sunny,12.2,Low demand,No,Low
+2026-01-15,Cafe,Dairy,156,121,35,4,7.0,128.0,No,Hot,19.6,Overproduction,No,Medium
+2026-01-16,Restaurant,Produce,109,102,7,9,5.1,109.2,No,Sunny,2.6,None,Yes,Low
+2026-01-17,Canteen,Dairy,69,33,36,6,2.4,22.2,No,Cloudy,19.0,Expired,Yes,Medium
+2026-01-18,Canteen,Grains,64,58,6,2,2.3,54.9,Yes,Sunny,1.3,None,No,Low
+2026-01-19,Restaurant,Dairy,78,57,21,7,2.1,34.7,No,Cloudy,12.9,Overproduction,Yes,Low
+2026-01-20,Restaurant,Prepared Meals,119,95,24,6,1.5,89.1,No,Rainy,9.4,Storage issue,Yes,Low
+2026-01-21,Restaurant,Prepared Meals,66,35,31,5,5.2,39.8,No,Rainy,8.7,Storage issue,No,Low
+2026-01-22,Restaurant,Grains,167,120,47,7,7.3,129.9,Yes,Cloudy,12.7,Overproduction,No,Low
+2026-01-23,Canteen,Prepared Meals,101,79,22,9,5.0,70.4,No,Hot,6.2,None,No,Low
+2026-01-24,Canteen,Grains,159,108,51,3,0.5,120.6,No,Rainy,17.0,Storage issue,Yes,Medium
+2026-01-25,Restaurant,Bakery,132,70,62,4,4.6,51.8,No,Hot,31.5,Expired,Yes,Medium
+2026-01-26,Hotel,Prepared Meals,80,46,34,2,4.7,31.0,No,Rainy,21.2,Low demand,Yes,Medium
+2026-01-27,Restaurant,Bakery,64,56,8,6,9.2,64.5,Yes,Sunny,3.9,None,No,Low
+2026-01-28,Cafe,Produce,141,66,75,4,2.1,86.1,No,Sunny,31.8,Low demand,Yes,Medium
+2026-01-29,Hotel,Dairy,79,64,15,4,4.2,69.9,Yes,Sunny,5.6,None,Yes,Low
+2026-01-30,Hotel,Produce,67,64,3,7,8.4,63.5,No,Cloudy,1.7,None,Yes,Low
+2026-01-31,Canteen,Produce,169,77,92,4,5.9,50.7,Yes,Cloudy,52.9,Overproduction,Yes,High
+2026-02-01,Restaurant,Dairy,102,54,48,5,6.1,29.7,No,Rainy,14.2,Expired,Yes,Low
+2026-02-02,Restaurant,Produce,37,29,8,4,5.2,30.6,Yes,Rainy,5.0,None,No,Low
+2026-02-03,Cafe,Grains,104,50,54,3,5.7,45.7,No,Hot,18.8,Storage issue,No,Medium
+2026-02-04,Cafe,Dairy,99,74,25,2,6.6,60.7,Yes,Cloudy,13.8,Storage issue,No,Low
+2026-02-05,Canteen,Prepared Meals,159,126,33,8,3.4,126.8,No,Sunny,20.9,Expired,Yes,Medium
+2026-02-06,Canteen,Dairy,136,101,35,1,6.8,102.4,No,Sunny,17.6,Expired,No,Medium
+2026-02-07,Cafe,Grains,58,37,21,3,2.3,48.3,No,Rainy,4.8,None,No,Low
+2026-02-08,Canteen,Bakery,52,42,10,7,5.7,43.6,No,Rainy,4.4,None,Yes,Low
+2026-02-09,Cafe,Grains,120,90,30,2,5.4,104.7,No,Hot,6.3,None,No,Low
+2026-02-10,Hotel,Dairy,37,20,17,6,3.8,20.1,No,Cloudy,9.3,Storage issue,Yes,Low
+2026-02-11,Cafe,Produce,77,56,21,7,5.0,54.6,No,Hot,6.1,None,No,Low
+2026-02-12,Restaurant,Bakery,50,45,5,6,3.8,57.8,Yes,Cloudy,2.5,None,Yes,Low
+2026-02-13,Canteen,Grains,33,26,7,3,2.9,14.3,No,Rainy,4.2,None,Yes,Low
+2026-02-14,Restaurant,Prepared Meals,167,115,52,1,4.3,148.8,No,Cloudy,12.5,Storage issue,Yes,Low
+2026-02-15,Restaurant,Bakery,43,26,17,8,2.8,30.5,Yes,Cloudy,5.9,None,No,Low
+2026-02-16,Restaurant,Dairy,31,15,16,3,5.6,19.6,No,Cloudy,7.6,None,Yes,Low
+2026-02-17,Cafe,Dairy,169,97,72,8,2.7,103.3,Yes,Sunny,25.9,Storage issue,No,Medium
+2026-02-18,Restaurant,Dairy,58,26,32,2,6.4,48.5,Yes,Cloudy,7.6,None,Yes,Low
+2026-02-19,Restaurant,Prepared Meals,152,143,9,2,2.6,152.5,No,Rainy,1.5,None,No,Low
+2026-02-20,Hotel,Bakery,34,19,15,8,3.9,0.0,Yes,Hot,5.3,None,Yes,Low
+2026-02-21,Canteen,Prepared Meals,53,45,8,9,3.8,61.8,No,Hot,3.8,None,Yes,Low
+2026-02-22,Restaurant,Dairy,46,25,21,8,7.7,20.9,No,Cloudy,9.2,Overproduction,Yes,Low
+2026-02-23,Cafe,Bakery,135,80,55,7,5.7,81.3,No,Hot,12.5,Expired,Yes,Low
+2026-02-24,Hotel,Dairy,123,81,42,3,4.6,65.6,No,Cloudy,15.8,Overproduction,Yes,Medium
+2026-02-25,Canteen,Dairy,101,62,39,9,6.0,68.3,No,Sunny,13.1,Low demand,Yes,Low
+2026-02-26,Hotel,Produce,66,56,10,7,0.8,48.2,No,Cloudy,2.9,None,No,Low
+2026-02-27,Canteen,Dairy,43,40,3,2,4.9,41.2,No,Hot,1.5,None,Yes,Low
+2026-02-28,Hotel,Produce,115,102,13,2,9.0,98.6,Yes,Sunny,4.0,None,Yes,Low
+2026-03-01,Cafe,Dairy,64,34,30,8,5.3,57.1,No,Sunny,12.6,Low demand,Yes,Low
+2026-03-02,Restaurant,Produce,118,99,19,3,5.1,122.8,No,Rainy,11.6,Low demand,No,Low
+2026-03-03,Canteen,Produce,133,70,63,7,6.1,70.6,Yes,Hot,26.4,Overproduction,Yes,Medium
+2026-03-04,Canteen,Bakery,157,142,15,2,6.8,142.8,No,Cloudy,6.9,None,No,Low
+2026-03-05,Restaurant,Bakery,104,74,30,3,1.0,69.5,Yes,Hot,5.6,None,Yes,Low
+2026-03-06,Hotel,Produce,30,19,11,3,1.6,32.3,No,Hot,2.6,None,No,Low
+2026-03-07,Restaurant,Bakery,72,38,34,3,5.4,34.1,Yes,Cloudy,6.8,None,Yes,Low
+2026-03-08,Hotel,Dairy,158,72,86,7,3.6,66.9,Yes,Cloudy,45.8,Storage issue,Yes,High
+2026-03-09,Canteen,Prepared Meals,109,63,46,9,7.6,74.7,Yes,Rainy,26.1,Low demand,No,Medium
+2026-03-10,Restaurant,Dairy,122,111,11,9,4.4,104.5,Yes,Sunny,2.7,None,Yes,Low
+2026-03-11,Cafe,Dairy,98,83,15,7,1.1,82.5,Yes,Rainy,3.9,None,Yes,Low
+2026-03-12,Restaurant,Produce,54,50,4,2,2.5,31.0,Yes,Cloudy,1.2,None,No,Low
+2026-03-13,Hotel,Dairy,164,82,82,9,-0.5,90.5,Yes,Sunny,36.5,Expired,Yes,High
+2026-03-14,Canteen,Bakery,145,108,37,5,4.5,131.3,Yes,Sunny,17.1,Expired,No,Medium
+2026-03-15,Restaurant,Grains,179,104,75,5,4.6,112.7,No,Sunny,37.0,Expired,Yes,High
+2026-03-16,Cafe,Dairy,158,114,44,7,4.2,131.5,No,Cloudy,26.5,Expired,Yes,Medium
+2026-03-17,Canteen,Grains,73,45,28,7,7.2,34.8,No,Hot,8.3,Expired,Yes,Low
+2026-03-18,Cafe,Produce,68,40,28,9,7.4,42.8,No,Hot,13.4,Overproduction,Yes,Low
+2026-03-19,Restaurant,Dairy,67,49,18,6,4.7,37.7,Yes,Rainy,7.7,None,Yes,Low
+2026-03-20,Cafe,Grains,167,90,77,6,0.7,87.3,Yes,Cloudy,23.3,Expired,No,Medium
+2026-03-21,Hotel,Prepared Meals,113,77,36,7,6.2,86.3,Yes,Hot,21.7,Overproduction,No,Medium
+2026-03-22,Hotel,Grains,98,76,22,3,6.1,77.2,No,Cloudy,4.4,None,Yes,Low
+2026-03-23,Cafe,Grains,175,90,85,3,5.6,73.0,No,Rainy,43.0,Storage issue,No,High
+2026-03-24,Canteen,Dairy,120,110,10,6,7.0,94.2,No,Rainy,5.1,None,No,Low
+2026-03-25,Hotel,Produce,166,117,49,1,2.7,100.4,No,Cloudy,29.8,Storage issue,No,Medium
+2026-03-26,Cafe,Dairy,177,152,25,3,9.0,157.9,No,Rainy,10.2,Overproduction,Yes,Low
+2026-03-27,Canteen,Bakery,41,32,9,7,3.1,56.8,No,Hot,2.8,None,No,Low
+2026-03-28,Canteen,Produce,84,68,16,9,6.5,84.3,No,Hot,9.0,Expired,Yes,Low
+2026-03-29,Cafe,Bakery,140,113,27,5,1.6,90.2,No,Sunny,14.5,Storage issue,No,Low
+2026-03-30,Restaurant,Bakery,151,134,17,4,3.1,151.1,No,Cloudy,6.8,None,No,Low
+2026-03-31,Hotel,Dairy,52,39,13,4,8.0,50.2,No,Rainy,6.9,None,Yes,Low
+2026-04-01,Hotel,Grains,77,45,32,7,4.5,26.5,No,Cloudy,9.1,Expired,Yes,Low
+2026-04-02,Restaurant,Bakery,112,56,56,5,6.7,52.4,No,Rainy,24.9,Expired,Yes,Medium
+2026-04-03,Hotel,Dairy,149,112,37,1,5.5,125.1,No,Rainy,21.6,Storage issue,No,Medium
+2026-04-04,Canteen,Prepared Meals,46,22,24,5,4.8,28.6,No,Rainy,7.4,None,No,Low
+2026-04-05,Restaurant,Prepared Meals,120,68,52,4,7.7,52.3,No,Sunny,20.4,Overproduction,Yes,Medium
+2026-04-06,Hotel,Prepared Meals,74,36,38,7,4.5,43.3,Yes,Hot,23.8,Overproduction,Yes,Medium
+2026-04-07,Restaurant,Prepared Meals,62,45,17,8,1.4,19.3,No,Sunny,9.3,Low demand,Yes,Low
+2026-04-08,Hotel,Grains,107,57,50,9,3.4,54.3,No,Rainy,29.7,Storage issue,Yes,Medium
+2026-04-09,Cafe,Grains,92,69,23,6,6.1,82.7,Yes,Sunny,7.9,None,No,Low
+2026-04-10,Restaurant,Grains,125,106,19,4,5.8,106.2,No,Sunny,12.3,Storage issue,Yes,Low
+2026-04-11,Canteen,Prepared Meals,77,66,11,4,1.9,60.0,Yes,Rainy,2.5,None,Yes,Low
+2026-04-12,Restaurant,Prepared Meals,153,93,60,2,3.6,103.7,No,Hot,24.6,Low demand,No,Medium
+2026-04-13,Hotel,Bakery,41,30,11,9,3.8,41.7,No,Hot,4.3,None,Yes,Low
+2026-04-14,Restaurant,Dairy,159,116,43,8,4.3,131.7,No,Rainy,23.6,Expired,No,Medium
+2026-04-15,Canteen,Bakery,34,23,11,8,2.2,33.5,No,Cloudy,6.6,None,No,Low
+2026-04-16,Hotel,Dairy,140,109,31,3,3.7,122.0,Yes,Hot,16.0,Overproduction,Yes,Medium
+2026-04-17,Canteen,Prepared Meals,81,45,36,3,3.5,53.8,Yes,Sunny,16.7,Expired,No,Medium
+2026-04-18,Cafe,Produce,87,82,5,8,6.5,85.2,No,Hot,1.8,None,No,Low
+2026-04-19,Cafe,Bakery,32,16,16,5,6.6,17.1,Yes,Sunny,6.5,None,No,Low
+2026-04-20,Hotel,Prepared Meals,135,117,18,7,4.7,114.2,No,Sunny,7.3,None,Yes,Low
+2026-04-21,Canteen,Produce,54,40,14,5,4.2,25.5,Yes,Rainy,2.2,None,Yes,Low
+2026-04-22,Canteen,Grains,128,73,55,4,5.3,61.5,No,Sunny,22.1,Expired,Yes,Medium
+2026-04-23,Restaurant,Prepared Meals,138,114,24,6,3.4,110.6,No,Hot,13.9,Overproduction,Yes,Low
+2026-04-24,Hotel,Dairy,156,77,79,8,2.7,79.9,No,Hot,39.9,Storage issue,Yes,High
+2026-04-25,Restaurant,Grains,136,114,22,4,3.1,131.3,Yes,Rainy,12.1,Low demand,No,Low
+2026-04-26,Cafe,Produce,75,56,19,8,3.7,55.5,No,Hot,6.6,None,No,Low
+2026-04-27,Canteen,Grains,140,71,69,3,2.7,83.0,No,Hot,28.6,Expired,Yes,Medium
+2026-04-28,Cafe,Dairy,153,75,78,4,5.3,88.0,No,Hot,13.0,Storage issue,Yes,Low
+2026-04-29,Canteen,Bakery,77,64,13,9,6.5,61.2,No,Hot,4.4,None,Yes,Low
+2026-04-30,Cafe,Produce,48,29,19,9,1.8,36.1,No,Cloudy,7.4,None,Yes,Low
+2026-05-01,Restaurant,Prepared Meals,163,146,17,9,5.1,143.1,Yes,Sunny,4.7,None,No,Low
+2026-05-02,Cafe,Bakery,52,43,9,3,4.6,58.9,No,Hot,1.5,None,Yes,Low
+2026-05-03,Hotel,Produce,119,95,24,8,5.7,102.6,Yes,Cloudy,11.9,Low demand,Yes,Low
+2026-05-04,Canteen,Produce,65,38,27,9,5.0,23.7,No,Hot,9.9,Storage issue,No,Low
+2026-05-05,Hotel,Prepared Meals,48,39,9,9,2.1,40.9,No,Hot,3.2,None,Yes,Low
+2026-05-06,Canteen,Dairy,146,135,11,1,2.5,154.8,No,Sunny,3.0,None,Yes,Low
+2026-05-07,Canteen,Bakery,51,25,26,7,5.1,22.8,No,Rainy,10.9,Overproduction,Yes,Low
+2026-05-08,Canteen,Dairy,130,80,50,9,7.1,85.4,Yes,Sunny,18.5,Storage issue,No,Medium
+2026-05-09,Hotel,Grains,133,75,58,7,0.6,81.6,No,Sunny,22.4,Overproduction,Yes,Medium
+2026-05-10,Cafe,Prepared Meals,39,25,14,3,5.7,12.6,No,Hot,6.2,None,No,Low
+2026-05-11,Cafe,Grains,55,45,10,7,7.4,51.1,No,Hot,1.5,None,No,Low
+2026-05-12,Restaurant,Dairy,149,102,47,1,4.7,85.3,No,Hot,28.4,Low demand,Yes,Medium
+2026-05-13,Cafe,Produce,106,78,28,5,6.1,70.5,Yes,Hot,5.2,None,No,Low
+2026-05-14,Canteen,Dairy,48,29,19,6,3.6,41.9,No,Cloudy,7.1,None,No,Low
+2026-05-15,Cafe,Bakery,178,93,85,5,4.8,97.3,Yes,Cloudy,21.6,Overproduction,Yes,Medium
+2026-05-16,Restaurant,Produce,69,40,29,7,1.8,36.3,No,Hot,11.9,Overproduction,No,Low
+2026-05-17,Hotel,Produce,30,26,4,3,0.3,31.4,No,Cloudy,1.2,None,Yes,Low
+2026-05-18,Canteen,Prepared Meals,168,126,42,6,6.9,125.3,Yes,Cloudy,24.4,Low demand,Yes,Medium
+2026-05-19,Canteen,Produce,32,20,12,6,3.0,20.2,No,Sunny,4.2,None,No,Low
+2026-05-20,Cafe,Produce,113,95,18,6,4.1,102.9,Yes,Cloudy,8.4,Overproduction,Yes,Low
+2026-05-21,Cafe,Bakery,178,86,92,3,2.2,77.3,No,Hot,25.2,Storage issue,Yes,Medium
+2026-05-22,Hotel,Grains,116,67,49,3,2.2,67.5,No,Cloudy,7.8,None,Yes,Low
+2026-05-23,Restaurant,Produce,117,66,51,3,4.7,62.3,Yes,Rainy,18.0,Overproduction,Yes,Medium
+2026-05-24,Cafe,Bakery,88,83,5,5,3.5,64.0,No,Sunny,2.1,None,No,Low
+2026-05-25,Restaurant,Prepared Meals,49,39,10,6,5.8,28.0,No,Sunny,3.8,None,No,Low
+2026-05-26,Canteen,Produce,115,87,28,4,5.9,105.8,Yes,Cloudy,17.7,Overproduction,Yes,Medium
+2026-05-27,Hotel,Bakery,164,74,90,4,5.6,78.6,No,Cloudy,45.3,Storage issue,No,High
+2026-05-28,Canteen,Produce,43,23,20,3,5.5,7.1,Yes,Hot,13.0,Expired,Yes,Low
+2026-05-29,Canteen,Dairy,162,124,38,2,8.2,105.5,No,Hot,11.3,Storage issue,Yes,Low
+2026-05-30,Canteen,Dairy,92,59,33,6,2.9,57.7,Yes,Rainy,18.0,Low demand,No,Medium
+2026-05-31,Restaurant,Prepared Meals,110,100,10,8,4.9,118.7,No,Hot,4.3,None,No,Low
+2026-06-01,Canteen,Produce,54,45,9,3,7.3,42.8,No,Cloudy,4.1,None,Yes,Low
+2026-06-02,Restaurant,Prepared Meals,123,83,40,8,7.5,98.7,Yes,Rainy,25.7,Low demand,Yes,Medium
+2026-06-03,Cafe,Dairy,57,47,10,6,2.2,51.2,No,Hot,4.8,None,No,Low
+2026-06-04,Hotel,Grains,70,66,4,2,4.4,71.7,No,Sunny,2.4,None,No,Low
+2026-06-05,Cafe,Grains,138,94,44,4,7.7,78.0,No,Cloudy,22.6,Expired,Yes,Medium
+2026-06-06,Restaurant,Grains,37,29,8,1,6.0,40.3,No,Hot,1.7,None,No,Low
+2026-06-07,Restaurant,Grains,97,88,9,1,5.4,84.0,Yes,Cloudy,4.5,None,No,Low
+2026-06-08,Canteen,Dairy,119,68,51,4,4.6,78.4,Yes,Hot,20.0,Storage issue,No,Medium
+2026-06-09,Cafe,Bakery,49,44,5,5,4.2,34.2,No,Sunny,3.0,None,Yes,Low
+2026-06-10,Cafe,Grains,74,37,37,8,5.6,39.1,No,Cloudy,20.5,Low demand,No,Medium
+2026-06-11,Canteen,Grains,81,63,18,2,4.5,67.2,No,Hot,3.6,None,No,Low
+2026-06-12,Restaurant,Grains,129,109,20,8,4.9,107.2,No,Cloudy,4.3,None,No,Low
+2026-06-13,Canteen,Produce,176,133,43,3,5.2,137.9,No,Hot,7.9,None,Yes,Low
+2026-06-14,Canteen,Prepared Meals,155,108,47,2,3.6,104.8,Yes,Rainy,18.6,Low demand,Yes,Medium
+2026-06-15,Hotel,Dairy,58,44,14,7,6.1,36.2,Yes,Cloudy,2.7,None,No,Low
+2026-06-16,Restaurant,Dairy,32,17,15,7,10.8,36.3,No,Rainy,7.7,None,Yes,Low
+2026-06-17,Restaurant,Grains,37,21,16,6,1.4,33.6,No,Hot,6.8,None,No,Low
+2026-06-18,Cafe,Bakery,119,70,49,2,5.6,60.9,No,Sunny,27.8,Low demand,No,Medium
+2026-06-19,Hotel,Bakery,53,40,13,2,3.5,46.8,No,Rainy,3.8,None,Yes,Low
+2026-06-20,Restaurant,Prepared Meals,64,43,21,4,6.2,34.1,No,Sunny,8.6,Overproduction,No,Low
+2026-06-21,Cafe,Grains,157,90,67,5,5.1,75.8,No,Cloudy,14.0,Low demand,No,Low
+2026-06-22,Restaurant,Produce,161,144,17,9,6.5,156.4,Yes,Sunny,10.1,Expired,Yes,Low
+2026-06-23,Hotel,Prepared Meals,155,99,56,3,7.4,78.6,No,Rainy,13.3,Low demand,No,Low
+2026-06-24,Restaurant,Dairy,68,46,22,2,5.4,57.1,Yes,Hot,4.4,None,No,Low
+2026-06-25,Hotel,Dairy,122,80,42,9,7.3,77.0,No,Rainy,10.6,Low demand,Yes,Low
+2026-06-26,Restaurant,Dairy,121,65,56,2,0.3,62.5,Yes,Sunny,31.0,Storage issue,No,Medium
+2026-06-27,Restaurant,Grains,57,47,10,1,8.2,51.9,Yes,Sunny,2.0,None,Yes,Low
+2026-06-28,Restaurant,Prepared Meals,113,76,37,4,5.8,83.0,No,Sunny,16.9,Low demand,Yes,Medium
+2026-06-29,Canteen,Bakery,108,49,59,4,7.2,39.1,No,Hot,30.9,Overproduction,No,Medium
+2026-06-30,Restaurant,Prepared Meals,89,83,6,6,2.6,91.6,No,Cloudy,3.2,None,Yes,Low
+2026-07-01,Cafe,Bakery,142,122,20,8,3.3,123.4,Yes,Hot,4.9,None,Yes,Low
+2026-07-02,Hotel,Grains,131,106,25,9,5.3,90.9,No,Sunny,4.5,None,Yes,Low
+2026-07-03,Hotel,Grains,109,96,13,3,5.0,94.0,No,Rainy,4.9,None,No,Low
+2026-07-04,Hotel,Prepared Meals,138,125,13,9,5.6,141.6,No,Sunny,3.3,None,Yes,Low
+2026-07-05,Canteen,Produce,144,89,55,6,7.2,109.1,Yes,Rainy,27.5,Overproduction,No,Medium
+2026-07-06,Cafe,Bakery,115,87,28,1,1.5,95.6,No,Cloudy,9.2,Expired,Yes,Low
+2026-07-07,Canteen,Prepared Meals,70,53,17,9,6.9,38.7,No,Hot,6.4,None,Yes,Low
+2026-07-08,Cafe,Bakery,143,83,60,2,5.0,88.9,No,Rainy,12.4,Expired,Yes,Low
+2026-07-09,Canteen,Prepared Meals,137,77,60,6,4.6,87.2,Yes,Hot,26.0,Overproduction,Yes,Medium
+2026-07-10,Hotel,Dairy,177,90,87,8,2.1,98.7,Yes,Cloudy,21.1,Expired,Yes,Medium
+2026-07-11,Hotel,Grains,52,41,11,3,6.0,50.4,No,Rainy,5.4,None,No,Low
+2026-07-12,Canteen,Dairy,92,77,15,3,0.2,81.4,Yes,Hot,2.8,None,Yes,Low
+2026-07-13,Canteen,Produce,168,140,28,5,6.3,139.1,No,Rainy,17.9,Overproduction,No,Medium
+2026-07-14,Canteen,Dairy,107,65,42,8,2.0,57.7,Yes,Sunny,20.7,Low demand,No,Medium
